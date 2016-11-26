@@ -7,9 +7,9 @@ Linux用のz_toolsバイナリです．
 
 - bochs
 
+## 64bit Ubuntu
 - lib32z1
-- lib32ncurses5
-- lib32bz2-1.0
+ - `sudo apt-get　install lib32z1`でいれられる
 
 
 ## 動作確認状況
