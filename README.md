@@ -7,8 +7,9 @@
 ## 依存しているパッケージ・ソフトウエア
 
 ## 64bit Ubuntuの場合
-- lib32z1
- - `sudo apt-get　install lib32z1`でいれられる
+- libc6-i386
+ - 開発ツールの一部が32ビットバイナリのため、32bitバイナリを実行できるようにする必要がある。
+ - `sudo apt-get　install libc6-i386`
 - qemu
  - `sudo apt install qemu`
 - bochs
