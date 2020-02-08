@@ -9,7 +9,7 @@
 ## 64bit Ubuntuの場合
 - libc6-i386
  - 開発ツールの一部が32ビットバイナリのため、32bitバイナリを実行できるようにする必要がある。
- - `sudo apt　install libc6-i386`
+ - `sudo apt install libc6-i386`
 - qemu
  - `sudo apt install qemu`
 - bochs
